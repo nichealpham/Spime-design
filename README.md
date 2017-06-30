@@ -1,5 +1,5 @@
 # Spime Websites Template
-![alt text](https://github.com/nguyenpham95/Spime-design/tree/master/captures/img1.png)
+![alt text](https://github.com/nguyenpham95/Spime-design/blob/master/captures/img1.png)
 A simple, not clean but "feel good" web designs: https://nguyenpham95.github.io/Spime-design/
 
 ## Installation
