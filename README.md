@@ -31,4 +31,11 @@ Download the Source code.ZIP file and enjoy :)
 
 ## License
 
-Free to use and distribute
+It is FREE for use and distribute. ut it could be greate if you reference me at github here: https://github.com/nguyenpham95
+
+## Contact information:
+Name:  Phạm Khôi Nguyên<br/>
+School:  International University – Vietnam National University (VNU)<br/>
+Department:  Biomedical Engineering<br/>
+Email: phamkhoinguyen1995@gmail.com<br/>
+Linkedin: https://vn.linkedin.com/in/pham-khoi-nguyen-43a505102<br/>
