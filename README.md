@@ -10,23 +10,23 @@ Download the Source code.ZIP file and enjoy :)
 ![alt text](https://github.com/nguyenpham95/Spime-design/blob/master/captures/img2.png)
 <br/>
 <p>Profile website</p>
-<br/>
+
 ![alt text](https://github.com/nguyenpham95/Spime-design/blob/master/captures/img3.png)
 <br/>
 <p>Blog website</p>
-<br/>
+
 ![alt text](https://github.com/nguyenpham95/Spime-design/blob/master/captures/img4.png)
 <br/>
 <p>Data website</p>
-<br/>
+
 ![alt text](https://github.com/nguyenpham95/Spime-design/blob/master/captures/img5.png)
 <br/>
 <p>Mail website</p>
-<br/>
+
 ![alt text](https://github.com/nguyenpham95/Spime-design/blob/master/captures/img6.png)
 <br/>
 <p>Social website</p>
-<br/>
+
 
 
 ## License
