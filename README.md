@@ -31,7 +31,7 @@ Download the Source code.ZIP file and enjoy :)
 
 ## License
 
-It is FREE for use and distribute. ut it could be greate if you reference me at github here: https://github.com/nguyenpham95
+It is FREE for use and distribution, but it would be helpful if you could refer my github here: https://github.com/nguyenpham95
 
 ## Contact information:
 Name:  Phạm Khôi Nguyên<br/>
