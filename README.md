@@ -4,7 +4,7 @@
 
 ## Installation
 
-Download the Source code.ZIP file and enjoy :)
+Download the Repo as zip file and enjoy :)
 
 ## Some capture images
 ![alt text](https://github.com/nguyenpham95/Spime-design/blob/master/captures/img2.png)
