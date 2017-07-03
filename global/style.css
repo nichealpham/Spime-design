@@ -2790,12 +2790,12 @@
         }
         .profile_divchuaavarta
         {
-            width:180px;
+            width:185px;
             float:left;
             padding:5px;
             background-color:#FAFAFA;
             border:1px solid #E0E0E0;
-            margin-left:44px;
+            margin-left:42px;
             -webkit-box-shadow: 1px 1px 2px 0px rgba(184,184,184,1);
             -moz-box-shadow: 1px 1px 2px 0px rgba(184,184,184,1);
             box-shadow: 1px 1px 2px 0px rgba(184,184,184,1);
@@ -2804,7 +2804,7 @@
         }
         .profile_imavarta
         {
-            width:178px;
+            width:183px;
             border:1px dotted #E0E0E0;
         }
         .profile_lblname
@@ -3713,13 +3713,14 @@
         }
         .profile_divchuacv_divleft_divtieude_tim_divchuanoidung_right
         {
-            width:220px;
+            width:210px;
             height:26px;
             float:left;
+            margin-left:8px;
         }
         .profile_divchuacv_divleft_divtieude_tim_divchuanoidung_right_lblname
         {
-            width:60px;
+            width:80px;
             float:left;
             display:block;
             text-align:right;
